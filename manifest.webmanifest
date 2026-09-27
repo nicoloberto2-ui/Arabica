@@ -1,0 +1,12 @@
+{
+  "name": "Arabica — Arabo dall'italiano",
+  "short_name": "Arabica",
+  "description": "Corso interattivo di arabo per italofoni",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#116466",
+  "icons": [
+    { "src": "./logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

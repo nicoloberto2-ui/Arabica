@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="28" fill="#116466"/>
+  <circle cx="64" cy="64" r="40" fill="#f4d35e" opacity=".18"/>
+  <text x="64" y="80" text-anchor="middle" font-size="60" font-family="serif" fill="#fff">ع</text>
+</svg>
